@@ -1,3 +1,1 @@
-module github.com/tallongsun/testmod
-
-go 1.12
+module github.com/tallongsun/testmod/v2
